@@ -1,0 +1,39 @@
+{
+  "/Applications": {
+    "Alfred 4": "alfred",
+    "BaiduNetdisk_mac": "baidunetdisk",
+    "BetterTouchTool": "bettertouchtool",
+    "ClashX": "clashx",
+    "Docker": "docker",
+    "Downie 4": "downie",
+    "Firefox": "firefox",
+    "Glance": "glance",
+    "iShot": "ishot",
+    "JetBrains Toolbox": "toolbox",
+    "Keka": "keka",
+    "Microsoft Excel": "excel",
+    "Microsoft PowerPoint": "powerpoint",
+    "Microsoft Remote Desktop Beta": "remotedesktop",
+    "Microsoft Word": "word",
+    "Mosaic": "mosaic",
+    "NeteaseMusic": "neteasemusic",
+    "OpenMTP": "openmtp",
+    "Postman": "postman",
+    "QQ": "qq",
+    "QQMusic": "qqmusic",
+    "Simple Recorder": "simplerecorder",
+    "SlowQuitApps": "slowquitapps",
+    "Spark": "spark",
+    "Typora": "typora",
+    "Visual Studio Code": "vscode",
+    "WeChat": "wechat",
+    "网易有道词典": "youdao"
+  },
+  "~/Applications/JetBrains Toolbox": {
+    "CLion": "clion",
+    "DataGrip": "datagrip",
+    "GoLand": "goland",
+    "IntelliJ IDEA Ultimate": "idea",
+    "Rider": "rider"
+  }
+}
