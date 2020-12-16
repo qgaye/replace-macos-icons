@@ -35,5 +35,12 @@
     "GoLand": "goland",
     "IntelliJ IDEA Ultimate": "idea",
     "Rider": "rider"
+  },
+  "~/Library/Application Support/JetBrains/Toolbox/apps": {
+    "CLion/ch-0/203.5981.166/CLion": "clion",
+    "datagrip/ch-0/203.5981.102/DataGrip": "datagrip",
+    "Goland/ch-0/203.5981.98/GoLand": "goland",
+    "IDEA-U/ch-0/203.5981.155/IntelliJ IDEA": "idea",
+    "Rider/ch-0/203.5981.141/Rider": "rider"
   }
 }

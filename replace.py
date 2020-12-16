@@ -1,15 +1,19 @@
 # -*- coding:utf-8 -*-
 
+import os
 import sys
 import json
 import subprocess
 
 icons_floder = "./icons"
+toolbox_install_folder = "~/Library/Application\ Support/JetBrains/Toolbox/apps/"
 
 config = {}
 
 with open("./replacement.json", "r") as f:
     config = json.load(f)
+
+# TODO: 自动将最新的ToolBox安装的IDE路径配置到replacement.json中
 
 for path, value in config.items():
     path = path.replace(" ", "\\ ")

@@ -8,4 +8,4 @@ Then look for your favorite icons(in [here](https://macosicons.com/)) and store 
 
 And fill in the config file `replacement.json`, like `[app name]: [icons name in folder]`
 
-Finally, run `python replace.py` and everything become joyful
+Finally, run `python replace.py` and enjoy it
