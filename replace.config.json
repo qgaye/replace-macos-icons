@@ -3,7 +3,6 @@
     "Alfred 4": "alfred",
     "BaiduNetdisk_mac": "baidunetdisk",
     "BetterTouchTool": "bettertouchtool",
-    "ClashX": "clashx",
     "Docker": "docker",
     "Downie 4": "downie",
     "Firefox": "firefox",
@@ -13,21 +12,25 @@
     "Keka": "keka",
     "Microsoft Excel": "excel",
     "Microsoft PowerPoint": "powerpoint",
-    "Microsoft Remote Desktop Beta": "remotedesktop",
+    "Microsoft Remote Desktop": "remotedesktop",
+    "Microsoft To Do": "todo",
     "Microsoft Word": "word",
-    "Mosaic": "mosaic",
+    "Magnet": "magnet",
     "NeteaseMusic": "neteasemusic",
+    "OneDrive": "onedrive",
     "OpenMTP": "openmtp",
     "Postman": "postman",
     "QQ": "qq",
     "QQMusic": "qqmusic",
     "Simple Recorder": "simplerecorder",
     "SlowQuitApps": "slowquitapps",
-    "Spark": "spark",
     "Typora": "typora",
     "Visual Studio Code": "vscode",
     "WeChat": "wechat",
     "网易有道词典": "youdao"
+  },
+  "~/Applications/Chrome Apps.localized": {
+    "Outlook": "outlook"
   },
   "~/Applications/JetBrains Toolbox": {
     "CLion": "clion",
@@ -37,10 +40,10 @@
     "Rider": "rider"
   },
   "~/Library/Application Support/JetBrains/Toolbox/apps": {
-    "CLion/ch-0/203.5981.166/CLion": "clion",
-    "datagrip/ch-0/203.5981.102/DataGrip": "datagrip",
-    "Goland/ch-0/203.5981.98/GoLand": "goland",
-    "IDEA-U/ch-0/203.5981.155/IntelliJ IDEA": "idea",
-    "Rider/ch-0/203.5981.141/Rider": "rider"
+    "CLion/ch-0/{*}/CLion": "clion",
+    "datagrip/ch-0/{*}/DataGrip": "datagrip",
+    "Goland/ch-0/{*}/GoLand": "goland",
+    "IDEA-U/ch-0/{*}/IntelliJ IDEA": "idea",
+    "Rider/ch-0/{*}/Rider": "rider"
   }
 }
