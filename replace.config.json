@@ -11,6 +11,7 @@
     "JetBrains Toolbox": "toolbox",
     "Keka": "keka",
     "Microsoft Excel": "excel",
+    "Microsoft Outlook": "outlook",
     "Microsoft PowerPoint": "powerpoint",
     "Microsoft Remote Desktop": "remotedesktop",
     "Microsoft To Do": "todo",
@@ -28,9 +29,6 @@
     "Visual Studio Code": "vscode",
     "WeChat": "wechat",
     "网易有道词典": "youdao"
-  },
-  "~/Applications/Chrome Apps.localized": {
-    "Outlook": "outlook"
   },
   "~/Applications/JetBrains Toolbox": {
     "CLion": "clion",
